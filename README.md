@@ -1,10 +1,10 @@
-### Olá Mundo. Você acabou de entrar no meu cantinho  👋
+### Hello World. You just entered my little corner.  👋
 
-## Sou Desenvolvedora, Criadora de Conteúdo de LOL, Estudante e uma Curiosa de carteirinha.
+## I am a developer, content creator LOL, student and super funny.
 
-- 🔭 Atualmente estou trabalhando na Apple Developer Academy.
-- ⚡ Atualmente estou desenvolvendo em Swift e SwiftUI
-- ⚡ Eu também gosto de mexer com outras linguagens: C#, C/C++, JAVA, KOTLIN, F#, PHP etc..
+- 🔭 I’m currently working on Apple Developer Academy.
+- ⚡ I am currently developing on Swift and SwiftUI
+- ⚡ I also like to work with other languages: C #, C / C ++, JAVA, KOTLIN, F #, PHP etc.
 
 ###: mailbox_with_mail: Contate - me:
 
