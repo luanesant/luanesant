@@ -6,7 +6,7 @@
 - ⚡ I am currently developing on Swift and SwiftUI
 - ⚡ I also like to work with other languages: C #, C / C ++, JAVA, KOTLIN, F #, PHP etc.
 
-###: mailbox_with_mail: Contate - me:
+### :mailbox_with_mail:  Contact me:
 
 <p>
   <a href="https://www.linkedin.com/in/luane-dos-santos-b0165b163/">
@@ -22,7 +22,7 @@
   </a>
 </p>
 
-###💻: Tools of trade
+### 💻 : Tools of trade
 <p>
   <img alt="Swift" src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white"/>
 </p>
