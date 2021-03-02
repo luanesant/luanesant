@@ -27,9 +27,8 @@
   <img alt="Swift" src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white"/>
 </p>
 
-##: bar_chart: Minhas estatísticas
-! [Github stats] (https://github-readme-stats.vercel.app/api?username=luanesant&count_private=true&hide=issues&show_icons=true)
-[! [Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/?username=luanesant&layout=compact)] (https://github.com/anuraghazra/github-readme- Estatísticas)
-
+## :bar_chart: My stats
+![Github stats](https://github-readme-stats.vercel.app/api?username=luanesant&count_private=true&hide=issues&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanesant&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
