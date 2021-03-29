@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Apple Developer Academy.
 - ⚡ I am currently developing on Swift and SwiftUI
-- ⚡ I also like to work with other languages: C #, C / C ++, JAVA, KOTLIN, F #, PHP etc.
+- ⚡ I also like to work with other languages: Swift, Objective - C, C #, C / C ++, JAVA, PHP etc.
 
 ### :mailbox_with_mail:  Contact me:
 
