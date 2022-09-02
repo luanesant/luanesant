@@ -1,12 +1,16 @@
-### Hello World. You just entered my little corner.  👋
+## Hello World.  👋😊
 
-## I am a developer, content creator LOL, student and super funny.
+### I'm Luane dos Santos, a bachelor's student in chemistry and an almost good Lol player 🥲
 
-- 🔭 I’m currently working on Apple Developer Academy.
-- ⚡ I am currently developing on Swift and SwiftUI
-- ⚡ I also like to work with other languages: Swift, Objective - C, C #, C / C ++, JAVA etc.
+- 👩🏾‍🎓 Alumni [Apple Developer Academy | Instituto Eldorado - MAO](https://developeracademy.eldorado.org.br/manaus/).
+- 👩🏾‍💻 iOS Developer at [Westwing Brasil](https://www.instagram.com/westwingbr/?hl=pt)
+- 🐶 I have 4 dogs (female), their names are: Ada, Jade, Maggie and Mila (🦮🐕‍🦺🐩🐕)
+### Others
+- 💻 I'm currently developing on Swift and SwiftUI.
+- 🧠 I'm currently learning RXSwift and technologies to WatchOS.
+- ⚙️ I also like to work with other languages: Objective - C, C #, C / C ++, JAVA etc.
 
-### :mailbox_with_mail:  Contact me:
+### Find me!:
 
 <p>
   <a href="https://www.linkedin.com/in/luane-dos-santos-b0165b163/">
@@ -22,12 +26,12 @@
   </a>
 </p>
 
-### 💻 : Tools of trade
+### Tools of trade ⚙️
 <p>
   <img alt="Swift" src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white"/>
 </p>
 
-## :bar_chart: My stats
+## My stats :bar_chart: 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=luanesant&count_private=true&hide=issues&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanesant&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
