@@ -10,7 +10,7 @@
 - 🧠 I'm currently learning RXSwift and technologies to WatchOS.
 - ⚙️ I also like to work with other languages: Objective - C, C #, C / C ++, JAVA etc.
 
-### Find me!:
+### Find me!
 
 <p>
   <a href="https://www.linkedin.com/in/luane-dos-santos-b0165b163/">
