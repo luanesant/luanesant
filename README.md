@@ -4,6 +4,7 @@
 
 - 👩🏾‍🎓 Alumni [Apple Developer Academy | Instituto Eldorado - MAO](https://developeracademy.eldorado.org.br/manaus/).
 - 👩🏾‍💻 iOS Developer at [Westwing Brasil](https://www.instagram.com/westwingbr/?hl=pt)
+- 📲 App's in AppStore: [Harmon](https://apps.apple.com/br/app/harmon/id1557762306).
 - 🐶 I have 4 dogs (female), their names are: Ada, Jade, Maggie and Mila (🦮🐕‍🦺🐩🐕)
 ### Others
 - 💻 I'm currently developing on Swift and SwiftUI.
