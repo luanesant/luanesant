@@ -8,7 +8,7 @@
 - 🐶 I have 5 dogs (female), their names are: Ada, Jade, Maggie, Mila and Minnie (🦮🐕‍🦺🐩🐕🐕‍🦺)
 ### Others
 - 💻 I'm currently developing on Swift and SwiftUI.
-- 🧠 I'm currently learning RXSwift and technologies to WatchOS.
+- 🧠 I'm currently learning RxSwift and technologies to WatchOS.
 - ⚙️ I also like to work with other languages: Objective - C, C #, C / C ++, JAVA etc.
 
 ### Find me!
@@ -30,6 +30,7 @@
 ### Tools of trade ⚙️
 <p>
   <img alt="Swift" src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white"/>
+  <img alt="RxSwift" src="https://img.shields.io/badge/rxSwift%23FA7343.svg?&style=for-the-badge&logo=rxSwift&logoColor=white"/>
 </p>
 
 ## My stats :bar_chart: 
