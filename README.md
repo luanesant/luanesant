@@ -30,7 +30,7 @@
 ### Tools of trade ⚙️
 <p>
   <img alt="Swift" src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white"/>
-  <img alt="RxSwift" src="https://img.shields.io/badge/rxSwift%23FA7343.svg?&style=for-the-badge&logo=rxSwift&logoColor=white"/>
+  <img alt="RxSwift" src="https://img.shields.io/badge/rxswift-%23FA7343.svg?&style=for-the-badge&logo=rxswift&logoColor=white"/>
 </p>
 
 ## My stats :bar_chart: 
