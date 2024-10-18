@@ -1,10 +1,10 @@
 ## Hello World.  👋😊
 
-### I'm Luane dos Santos, a bachelor's student in chemistry and an almost good Lol player 🥲
+### I'm Luane dos Santos, a bachelor's student in Software Engineering and an almost good Lol player 🥲
 
-- 👩🏾‍🎓 Alumni [Apple Developer Academy | Instituto Eldorado - MAO](https://developeracademy.eldorado.org.br/manaus/).
 - 👩🏾‍💻 iOS Developer at [Westwing Brasil](https://www.instagram.com/westwingbr/?hl=pt)
 - 📲 App's in AppStore: [Harmon](https://apps.apple.com/br/app/harmon/id1557762306).
+- 👩🏾‍🎓 Alumni [Apple Developer Academy | Instituto Eldorado - MAO](https://developeracademy.eldorado.org.br/manaus/).
 - 🐶 I have 5 dogs (female), their names are: Ada, Jade, Maggie, Mila and Minnie (🦮🐕‍🦺🐩🐕🐕‍🦺)
 ### Others
 - 💻 I'm currently developing on Swift and SwiftUI.
